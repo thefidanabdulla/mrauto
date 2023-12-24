@@ -29,7 +29,7 @@ const Services = () => {
             <h3 className="text-center my-4 text-lg font-semibold px-2">{t.orderACar}</h3>
             <div className="flex justify-center mb-10">
               <Link href={'/consultation'}>
-                <button className='px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -48,7 +48,7 @@ const Services = () => {
             <h3 className="text-center my-4 text-lg font-semibold px-2">{t.informationAboutProcess}</h3>
             <div className="flex justify-center mb-10">
               <Link href={'/consultation'}>
-                <button className='px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -67,7 +67,7 @@ const Services = () => {
             <h3 className="text-center my-4 text-lg font-semibold px-2">{t.checkTheHistoryOfTheCar}</h3>
             <div className="flex justify-center mb-10">
               <Link href={'/carfax'}>
-                <button className='px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
