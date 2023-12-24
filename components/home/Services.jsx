@@ -1,9 +1,9 @@
 import Image from "next/image";
 import React from "react";
+import Link from "next/link";
 
 import { useRouter } from "next/router";
 import lang from '@/utils/translations.util.js';
-import Link from "next/link";
 
 const Services = () => {
   
@@ -15,7 +15,7 @@ const Services = () => {
     <div className="w-full flex justify-center">
       <div className=" max-w-[1300px] w-full px-4 2xl:px-0 py-[100px]">
         <h2 className="text-xl md:text-3xl font-semibold mb-12">{t.ourServices}</h2>
-        <div className=" flex lg:flex-row flex-col lg:justify-between">
+        <div className=" flex flex-row justify-center flex-wrap gap-8  lg:justify-between">
           <div className="w-[330px] rounded-lg shadow-sm overflow-hidden">
             <div className="w-full h-[200px] ">
               <Image
