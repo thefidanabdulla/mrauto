@@ -4,7 +4,8 @@ const en = {
   "carfax": "Carfax",
   "contact": "Contact",
   "consultation": "Consultation",
-  "vin": "VIN"
+  "vin": "VIN",
+  "copyright": "Copyright © 2024. All rights reserved.",
 }
 
 const ru = {
@@ -14,6 +15,8 @@ const ru = {
   "contact": "Контакты",
   "consultation": "Консультация",
   "vin": "ВИН",
+  "copyright": "Copyright © 2024. Bütün hüquqlar qorunur.",
+  
 }
 
 const az = {
@@ -23,6 +26,7 @@ const az = {
   "contact": "Əlaqə",
   "consultation": "Konsultasiya",
   "vin": "VİN",
+  "copyright": "Copyright © 2024. Все права защищены.",
 }
 
 

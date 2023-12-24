@@ -61,7 +61,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-[#ffffff50] mt-10 flex justify-center pt-10">
-          <p className="text-center text-[#ffffff80]">Copyright © 2022. Bütün hüquqlar qorunur.</p>
+          <p className="text-center text-[#ffffff80]">{t.copyright}</p>
         </div>
       </div>
     </div>
