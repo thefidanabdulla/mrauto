@@ -43,7 +43,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -59,7 +59,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -76,7 +76,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -92,7 +92,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -108,7 +108,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -124,7 +124,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -140,7 +140,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -156,7 +156,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -172,7 +172,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
@@ -188,7 +188,7 @@ const HomeHero = () => {
                 alt='mrauto'
               />
               <Link href={'/consultation'}>
-                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#ffffff] text-[#FF7A00] hover:bg-[#FF7A00] transition-all duration-300 rounded-md hover:text-white border border-[#FF7A00]'>
+                <button className='absolute bottom-16 right-16 px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
                   {t.viewMore}
                 </button>
               </Link>
