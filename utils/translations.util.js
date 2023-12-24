@@ -6,6 +6,7 @@ const en = {
   "consultation": "Consultation",
   "vin": "VIN",
   "copyright": "Copyright © 2024. All rights reserved.",
+  "viewMore": "View more",
 }
 
 const ru = {
@@ -16,7 +17,7 @@ const ru = {
   "consultation": "Консультация",
   "vin": "ВИН",
   "copyright": "Copyright © 2024. Bütün hüquqlar qorunur.",
-  
+  "viewMore": "Посмотреть больше",
 }
 
 const az = {
@@ -27,6 +28,7 @@ const az = {
   "consultation": "Konsultasiya",
   "vin": "VİN",
   "copyright": "Copyright © 2024. Все права защищены.",
+  "viewMore": "Daha çox",
 }
 
 

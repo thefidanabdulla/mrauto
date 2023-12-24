@@ -7,6 +7,19 @@
 html{
     scroll-behavior: smooth;
 }
+.homeHero .swiper-pagination{
+    left: 40px !important;
+    width: auto !important;
+}
+.homeHero .swiper-pagination .swiper-pagination-bullet{
+    width: 20px !important;
+    height: 10px !important;
+    border-radius: 10px !important;
+    border: 1px solid #ffffff !important;
+}
+.homeHero .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active{
+    background: #FF7A00;
+}
 
 
 @tailwind base;
