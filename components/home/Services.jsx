@@ -16,7 +16,7 @@ const Services = () => {
       <div className=" max-w-[1300px] w-full px-4 2xl:px-0 py-[100px]">
         <h2 className="text-xl md:text-3xl font-semibold mb-12">{t.ourServices}</h2>
         <div className=" flex flex-row justify-center flex-wrap gap-8  lg:justify-between">
-          <div className="w-[330px] rounded-lg shadow-sm overflow-hidden">
+          <div className="w-[330px] rounded-lg shadow-md overflow-hidden">
             <div className="w-full h-[200px] ">
               <Image
                 width={500}
@@ -35,7 +35,7 @@ const Services = () => {
               </Link>
             </div>
           </div>
-          <div className="w-[330px] rounded-lg shadow-sm overflow-hidden">
+          <div className="w-[330px] rounded-lg shadow-md overflow-hidden">
             <div className="w-full h-[200px] ">
               <Image
                 width={500}
@@ -54,7 +54,7 @@ const Services = () => {
               </Link>
             </div>
           </div>
-          <div className="w-[330px] rounded-lg shadow-sm overflow-hidden">
+          <div className="w-[330px] rounded-lg shadow-md overflow-hidden">
             <div className="w-full h-[200px] ">
               <Image
                 width={500}

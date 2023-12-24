@@ -11,17 +11,18 @@ html{
     left: 40px !important;
     width: auto !important;
 }
+
 .homeHero .swiper-pagination .swiper-pagination-bullet{
-    background: white !important;
     width: 20px !important;
     height: 10px !important;
     border-radius: 10px !important;
-    border: 1px solid gray !important;
+    border: 1px solid rgba(128, 128, 128, 0.5) !important;
+    background: white !important;
+    opacity: 1 !important;
 }
-.homeHero .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active{
-    background: #FF7A00;
+.homeHero .swiper-pagination .swiper-pagination-bullet-active{
+    background: #FF7A00 !important;
 }
-
 
 @tailwind base;
 @tailwind components;
