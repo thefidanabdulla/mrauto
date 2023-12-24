@@ -7,6 +7,10 @@ const en = {
   "vin": "VIN",
   "copyright": "Copyright © 2024. All rights reserved.",
   "viewMore": "View more",
+  "orderACar": "Order a car",
+  "informationAboutProcess": "Information about the process",
+  "checkTheHistoryOfTheCar": "Check the history of the car",
+  "ourServices": "Our services",
 }
 
 const ru = {
@@ -18,6 +22,10 @@ const ru = {
   "vin": "ВИН",
   "copyright": "Copyright © 2024. Bütün hüquqlar qorunur.",
   "viewMore": "Посмотреть больше",
+  "orderACar": "Заказать машину",
+  "informationAboutProcess": "Информация о процессе",
+  "checkTheHistoryOfTheCar": "Проверить историю автомобиля",
+  "ourServices": "Наши сервисы",
 }
 
 const az = {
@@ -29,6 +37,10 @@ const az = {
   "vin": "VİN",
   "copyright": "Copyright © 2024. Все права защищены.",
   "viewMore": "Daha çox",
+  "orderACar": "Avtomobil sifariş vermək",
+  "informationAboutProcess": "Proses haqqında məlumat",
+  "checkTheHistoryOfTheCar": "Avtomobilin tarixcəsini yoxlamaq",
+  "ourServices": "Xidmətlərimiz",
 }
 
 

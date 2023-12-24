@@ -5,10 +5,10 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 import Image from 'next/image';
+import Link from 'next/link';
 
 import { useRouter } from "next/router";
 import lang from '@/utils/translations.util.js';
-import Link from 'next/link';
 
 
 const HomeHero = () => {
@@ -24,7 +24,7 @@ const HomeHero = () => {
           loop={true}
           centeredSlides={true}
           autoplay={{
-            delay: 2500,
+            delay: 4000,
             disableOnInteraction: false,
           }}
           pagination={{

@@ -16,7 +16,7 @@ const Navbar = () => {
 
   const [isOpenedSidebarMenu, setIsOpenedSidebarMenu] = useState(false)
   return (
-    <div className="shadow-sm sticky top-0 left-0 bg-[#ffffff90]">
+    <div className="shadow-sm sticky z-50 top-0 left-0 bg-[rgba(255,255,255,0.8)]">
       <nav className="max-w-[1300px] w-full mx-auto px-4 2xl:px-0 py-8  flex items-center justify-between">
         <div className="h-[35px] overflow-hidden flex items-center ">
           <Link href={"/"}>
