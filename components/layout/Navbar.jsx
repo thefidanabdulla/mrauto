@@ -4,8 +4,8 @@ import React, { useState } from "react";
 import Language from "../language/Language";
 import { FaBars } from "react-icons/fa";
 import SidebarMenu from "../sidebarMenu/SidebarMenu";
-import { useRouter } from "next/router";
 
+import { useRouter } from "next/router";
 import lang from '@/utils/translations.util.js';
 
 const Navbar = () => {

@@ -2,21 +2,27 @@ const en = {
   "home": "Home",
   "aboutUs": "About Us",
   "carfax": "Carfax",
-  "contact": "Contact"
+  "contact": "Contact",
+  "consultation": "Consultation",
+  "vin": "VIN"
 }
 
 const ru = {
   "home": "Главная",
   "aboutUs": "О нас",
   "carfax": "Карфакс",
-  "contact": "Контакты"
+  "contact": "Контакты",
+  "consultation": "Консультация",
+  "vin": "ВИН",
 }
 
 const az = {
   "home": "Əsas səhifə",
   "aboutUs": "Haqqımızda",
   "carfax": "Carfax",
-  "contact": "Əlaqə"
+  "contact": "Əlaqə",
+  "consultation": "Konsultasiya",
+  "vin": "VİN",
 }
 
 
