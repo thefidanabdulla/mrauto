@@ -27,6 +27,9 @@ const en = {
   "homeConsultation4":"Logistic Support",
   "homeConsultation5":"Our 24/7 Live Support service",
   "consultation": "Consultation",
+  "homeCarfax": "Do you want to buy a car but don't know its history?",
+  "homeCarfaxDesc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas risus vitae ut sed feugiat blandit lectus faucibus odio. Nunc condimentum vivamus lectus leo. Neque, laoreet posuere facilisis urna nibh elementum quam cursus. A viverra turpis imperdiet nibh maecenas netus.",
+  "check": "Check",
 }
 
 const ru = {
@@ -57,7 +60,10 @@ const ru = {
   "homeConsultation3":"Помощь в аукционах",
   "homeConsultation4":"Логистическая поддержка",
   "homeConsultation5":"Наша круглосуточная служба онлайн-поддержки",
-  "consultation": "Konsultasiya",
+  "consultation": "Консультация",
+  "homeCarfax": "Хотите купить автомобиль, но не знаете его историю?",
+  "homeCarfaxDesc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas risus vitae ut sed feugiat blandit lectus faucibus odio. Nunc condimentum vivamus lectus leo. Neque, laoreet posuere facilisis urna nibh elementum quam cursus. A viverra turpis imperdiet nibh maecenas netus.",
+  "check": "Проверьте это",
 }
 
 const az = {
@@ -88,7 +94,10 @@ const az = {
   "homeConsultation3":"Hərraclarda köməklik",
   "homeConsultation4":"Logistik Dəstək",
   "homeConsultation5":"7/24 Canlı Dəstək xidmətimiz",
-  "consultation": "Консультация",
+  "consultation": "Konsultasiya",
+  "homeCarfax": "Maşın almaq isteyirsiniz ama  tarixçəsini bilmirsiniz?",
+  "homeCarfaxDesc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas risus vitae ut sed feugiat blandit lectus faucibus odio. Nunc condimentum vivamus lectus leo. Neque, laoreet posuere facilisis urna nibh elementum quam cursus. A viverra turpis imperdiet nibh maecenas netus.",
+  "check": "Yoxla",
 }
 
 
