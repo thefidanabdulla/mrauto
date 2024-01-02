@@ -17,6 +17,14 @@ html {
     rgba(255, 194, 0, 0) 100%
   );
 }
+.homeContactGradient {
+  background: rgb(255, 70, 5);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 70, 5, 1) 0%,
+    rgba(69, 76, 137, 1) 37%
+  );
+}
 .homeHero .swiper-pagination {
   left: 40px !important;
   width: auto !important;

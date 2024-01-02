@@ -30,6 +30,10 @@ const en = {
   "homeCarfax": "Do you want to buy a car but don't know its history?",
   "homeCarfaxDesc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas risus vitae ut sed feugiat blandit lectus faucibus odio. Nunc condimentum vivamus lectus leo. Neque, laoreet posuere facilisis urna nibh elementum quam cursus. A viverra turpis imperdiet nibh maecenas netus.",
   "check": "Check",
+  "doYouWantToPartnerOrWorkWithUs": "Do you want to partner or work with us?",
+  "fullname": "Fullname",
+  "email": "Email",
+  "send": "Send"
 }
 
 const ru = {
@@ -64,6 +68,10 @@ const ru = {
   "homeCarfax": "Хотите купить автомобиль, но не знаете его историю?",
   "homeCarfaxDesc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas risus vitae ut sed feugiat blandit lectus faucibus odio. Nunc condimentum vivamus lectus leo. Neque, laoreet posuere facilisis urna nibh elementum quam cursus. A viverra turpis imperdiet nibh maecenas netus.",
   "check": "Проверьте это",
+  "doYouWantToPartnerOrWorkWithUs": "Вы хотите стать партнером или работать с нами? ",
+  "fullname": "Имя",
+  "email": "Электронная почта",
+  "send": "Отправлять"
 }
 
 const az = {
@@ -98,6 +106,10 @@ const az = {
   "homeCarfax": "Maşın almaq isteyirsiniz ama  tarixçəsini bilmirsiniz?",
   "homeCarfaxDesc": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Egestas risus vitae ut sed feugiat blandit lectus faucibus odio. Nunc condimentum vivamus lectus leo. Neque, laoreet posuere facilisis urna nibh elementum quam cursus. A viverra turpis imperdiet nibh maecenas netus.",
   "check": "Yoxla",
+  "doYouWantToPartnerOrWorkWithUs": "Siz bizimlə partnyor olmaq və ya işləmək istəyirsiniz? ",
+  "fullname": "Ad",
+  "email": "E-poçt",
+  "send": "Göndər"
 }
 
 
