@@ -19,7 +19,14 @@ const en = {
   "time": "Time",
   "aboutTime": "We prioritize the quality of our work and finish it on time",
   "warranty": "Warranty",
-  "aboutWarranty": "The material determines the building itself so we recommend that you use the best & quality materials in its class."
+  "aboutWarranty": "The material determines the building itself so we recommend that you use the best & quality materials in its class.",
+  "homeConsultation": "Do you want to buy a car but can't choose? or you don't know how suitable and safe to buy a car from America? Absorbed from auctions, and trusted new and used car languages with multiple locations across all states. We are at your service with the lowest prices and the most services.",
+  "homeConsultation1":"A detailed fully explained analysis of the machine",
+  "homeConsultation2":"Wide selection of cars",
+  "homeConsultation3":"Assistance in auctions",
+  "homeConsultation4":"Logistic Support",
+  "homeConsultation5":"Our 24/7 Live Support service",
+  "consultation": "Consultation",
 }
 
 const ru = {
@@ -43,7 +50,14 @@ const ru = {
   "time": "Время",
   "aboutTime": "Мы уделяем приоритетное внимание качеству нашей работы и выполняем ее в срок",
   "warranty": "Гарантия",
-  "aboutWarranty": "Материал определяет само здание, поэтому мы рекомендуем вам использовать лучшие и качественные материалы в своем классе."
+  "aboutWarranty": "Материал определяет само здание, поэтому мы рекомендуем вам использовать лучшие и качественные материалы в своем классе.",
+  "homeConsultation": "Хотите купить машину, но не можете выбрать или не знаете, насколько удобно и безопасно покупать машину из Америки? Поглощен аукционами и доверял языкам новых и подержанных автомобилей с множеством мест во всех штатах. Мы к вашим услугам с самыми низкими ценами и наибольшим количеством услуг.",
+  "homeConsultation1":"Подробный и полностью объясненный анализ машины",
+  "homeConsultation2":"Широкий выбор автомобилей",
+  "homeConsultation3":"Помощь в аукционах",
+  "homeConsultation4":"Логистическая поддержка",
+  "homeConsultation5":"Наша круглосуточная служба онлайн-поддержки",
+  "consultation": "Konsultasiya",
 }
 
 const az = {
@@ -67,7 +81,14 @@ const az = {
   "time": "Vaxt",
   "aboutTime": "İşimizin keyfiyyətinə önəm veririk və vaxtında bitiririk",
   "warranty": "Zəmanət",
-  "aboutWarranty": "Material binanı özü müəyyənləşdirir, ona görə də öz sinfində ən yaxşı və keyfiyyətli materiallardan istifadə etməyi tövsiyə edirik."
+  "aboutWarranty": "Material binanı özü müəyyənləşdirir, ona görə də öz sinfində ən yaxşı və keyfiyyətli materiallardan istifadə etməyi tövsiyə edirik.",
+  "homeConsultation": "Avtomobil almaq istəyirsiniz ama Seçim ede bilmirsiniz?və ya Maşını Amerikadan nece daha uyğun və güvənli almaq olar bilmirsiniz? Hərraclardan udulmuş, və güvənilir yeni və köhnə avtomobillərin Bütün ştatatlar üzrə bir neçə yeri olan dileri. Ən aşağı qiymətlər və ən müştəri xidmətlərmiz ilə xidmətinizdəyik.",
+  "homeConsultation1":"Maşının ətraflı tam izahlı təhlili",
+  "homeConsultation2":"Genis Avtomobil seçimi",
+  "homeConsultation3":"Hərraclarda köməklik",
+  "homeConsultation4":"Logistik Dəstək",
+  "homeConsultation5":"7/24 Canlı Dəstək xidmətimiz",
+  "consultation": "Консультация",
 }
 
 
