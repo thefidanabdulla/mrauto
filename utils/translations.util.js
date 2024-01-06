@@ -52,6 +52,9 @@ const en = {
   "sale_surrenderDetail": "The car is delivered to you fully insured",
   "phone": "Phone number",
   "select": "Select",
+  "frequentlyAskedQuestions": "Frequently asked questions",
+
+
 }
 
 const ru = {
@@ -108,6 +111,8 @@ const ru = {
   "sale_surrenderDetail": "Автомобиль доставляется вам полностью застрахованным.",
   "phone": "Номер телефона",
   "select": "Выбирать",
+  "frequentlyAskedQuestions": "Часто задаваемые вопросы",
+
 }
 
 const az = {
@@ -163,7 +168,8 @@ const az = {
   "sale_surrender": "Təhvil",
   "sale_surrenderDetail": "Avtomobil sizə tam sığortalı çatdırılır",
   "phone": "Telefon nömrəsi",
-  "select": "Seçin"
+  "select": "Seçin",
+  "frequentlyAskedQuestions": "Ən çox verilən suallar",
 }
 
 
