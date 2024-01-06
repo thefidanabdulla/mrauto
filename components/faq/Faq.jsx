@@ -2,7 +2,9 @@ import React from 'react'
 
 const Faq = () => {
   return (
-    <div>Faq</div>
+    <div>
+      
+    </div>
   )
 }
 

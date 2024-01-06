@@ -50,6 +50,8 @@ const en = {
   "sale_invoiceDetail": "The payment of the car is paid through the bank",
   "sale_surrender": "Surrender",
   "sale_surrenderDetail": "The car is delivered to you fully insured",
+  "phone": "Phone number",
+  "select": "Select",
 }
 
 const ru = {
@@ -104,6 +106,8 @@ const ru = {
   "sale_invoiceDetail": "Оплата автомобиля производится через банк",
   "sale_surrender": "Сдаваться",
   "sale_surrenderDetail": "Автомобиль доставляется вам полностью застрахованным.",
+  "phone": "Номер телефона",
+  "select": "Выбирать",
 }
 
 const az = {
@@ -158,6 +162,8 @@ const az = {
   "sale_invoiceDetail": "Avtomobilin ödənişi bank vasitəsi ilə ödənilir",
   "sale_surrender": "Təhvil",
   "sale_surrenderDetail": "Avtomobil sizə tam sığortalı çatdırılır",
+  "phone": "Telefon nömrəsi",
+  "select": "Seçin"
 }
 
 
