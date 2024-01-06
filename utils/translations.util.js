@@ -33,7 +33,10 @@ const en = {
   "doYouWantToPartnerOrWorkWithUs": "Do you want to partner or work with us?",
   "fullname": "Fullname",
   "email": "Email",
-  "send": "Send"
+  "send": "Send",
+  "consultationHeader":"Want to own a car from America at affordable prices?",
+  "buyNow": "Buy now",
+  "detailVideo": "Video explanation",
 }
 
 const ru = {
@@ -71,7 +74,10 @@ const ru = {
   "doYouWantToPartnerOrWorkWithUs": "Вы хотите стать партнером или работать с нами? ",
   "fullname": "Имя",
   "email": "Электронная почта",
-  "send": "Отправлять"
+  "send": "Отправлять",
+  "consultationHeader":"Хотите иметь автомобиль из Америки по доступным ценам?",
+  "buyNow": "Купить сейчас",
+  "detailVideo": "Видео объяснение",
 }
 
 const az = {
@@ -109,7 +115,10 @@ const az = {
   "doYouWantToPartnerOrWorkWithUs": "Siz bizimlə partnyor olmaq və ya işləmək istəyirsiniz? ",
   "fullname": "Ad",
   "email": "E-poçt",
-  "send": "Göndər"
+  "send": "Göndər",
+  "consultationHeader":"Amerikadan sərfəli qiymətlərlə avtomobilə sahib olmaq istəyirsiniz?",
+  "buyNow": "İndi al",
+  "detailVideo": "Video izah",
 }
 
 

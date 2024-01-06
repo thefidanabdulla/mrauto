@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <div className="w-full flex justify-center bg-[#222732] py-[100px]">
       <div className="max-w-[1300px] w-full px-4 2xl:px-0 ">
-        <div className="flex gap-20 items-center flex-col md:flex-row md:gap-[200px] flex-wrap md:items-start">
+        <div className="flex gap-20 items-center flex-col md:flex-row lg:gap-[200px] flex-wrap md:items-start">
           <div className="flex flex-col gap-4 items-start">
             <div className="h-[35px] overflow-hidden flex flex-col justify-center gap-3 items-center ">
               <Link href={"/"}>
@@ -39,24 +39,24 @@ const Footer = () => {
           </div>
           <div className="flex flex-col gap-4  text-white">
             <Link href={"/"}>
-              <p className="hover:underline">{t.home}</p>
+              <p className="hover:underline text-center lg:text-start ">{t.home}</p>
             </Link>
             <Link href={"/#ourDifferences"}>
-              <p className="hover:underline">{t.aboutUs}</p>
+              <p className="hover:underline text-center lg:text-start ">{t.aboutUs}</p>
             </Link>
             <Link href={"/#carfax"}>
-              <p className="hover:underline">{t.carfax}</p>
+              <p className="hover:underline text-center lg:text-start ">{t.carfax}</p>
             </Link>
             <Link href={"/#contact"}>
-              <p className="hover:underline">{t.contact}</p>
+              <p className="hover:underline text-center lg:text-start ">{t.contact}</p>
             </Link>
           </div>
           <div className="flex flex-col gap-4  text-white">
             <Link href={"/carfax"}>
-              <p className="hover:underline">{t.vin}</p>
+              <p className="hover:underline text-center lg:text-start ">{t.vin}</p>
             </Link>
             <Link href={"/consultation"}>
-              <p className="hover:underline">{t.consultation}</p>
+              <p className="hover:underline text-center lg:text-start ">{t.consultation}</p>
             </Link>
           </div>
         </div>

@@ -4,6 +4,7 @@ import React from 'react'
 
 import { useRouter } from "next/router";
 import lang from '@/utils/translations.util.js';
+import Link from 'next/link';
 
 const Consultation = () => {
   //language
@@ -40,6 +41,11 @@ const Consultation = () => {
                 <Image className='' src={'/imgs/checked.svg'} width={14} height={14} alt='mrauto' />
                 <p>{t.homeConsultation5}</p>
               </div>
+              <Link className='mt-4' href={'/consultation'}>
+                <button className=' w-full px-8 py-2 bg-[#FF7A00] text-[#ffffff] hover:bg-[#ffffff] transition-all duration-300 rounded-md hover:text-[#FF7A00] border border-[#FF7A00]'>
+                  {t.viewMore}
+                </button>
+              </Link>
             </div>
           </div>
         </div>
