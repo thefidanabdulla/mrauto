@@ -53,7 +53,7 @@ const en = {
   "phone": "Phone number",
   "select": "Select",
   "frequentlyAskedQuestions": "Frequently asked questions",
-
+  "whatIsCarfax": "What is carfax?",
 
 }
 
@@ -112,7 +112,7 @@ const ru = {
   "phone": "Номер телефона",
   "select": "Выбирать",
   "frequentlyAskedQuestions": "Часто задаваемые вопросы",
-
+  "whatIsCarfax": "Что такое карфакс?",
 }
 
 const az = {
@@ -170,6 +170,7 @@ const az = {
   "phone": "Telefon nömrəsi",
   "select": "Seçin",
   "frequentlyAskedQuestions": "Ən çox verilən suallar",
+  "whatIsCarfax": "Carfax nədir?",
 }
 
 
