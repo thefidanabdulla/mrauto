@@ -34,6 +34,18 @@ html {
     rgba(255, 70, 5, 0) 100%
   );
 }
+.orderCarGradient {
+  background: rgb(34, 39, 50);
+  background: linear-gradient(
+    90deg,
+    rgba(34, 39, 50, 0) 0%,
+    rgba(34, 39, 50, 0.1) 16%,
+    rgba(34, 39, 50, 0.15) 27%,
+    rgba(34, 39, 50, 0.2) 44%,
+    rgba(255, 70, 5, 0.25) 64%,
+    rgba(255, 70, 5, 0) 100%
+  );
+}
 .homeHero .swiper-pagination {
   left: 40px !important;
   width: auto !important;
