@@ -37,6 +37,19 @@ const en = {
   "consultationHeader":"Want to own a car from America at affordable prices?",
   "buyNow": "Buy now",
   "detailVideo": "Video explanation",
+  "saleProcess": "How is the car buying process?",
+  "sale_chooseCar": "Choosing the car",
+  "sale_chooseCarDetail": "You choose the car you want",
+  "sale_check": "Checking",
+  "sale_checkDetail": "Vehicle history is checked",
+  "sale_deposit": "Deposit",
+  "sale_depositDetail": "You deposit yourself",
+  "sale_time": "Date",
+  "sale_timeDetail": "To be determined at the time of the auction",
+  "sale_invoice": "Invoice",
+  "sale_invoiceDetail": "The payment of the car is paid through the bank",
+  "sale_surrender": "Surrender",
+  "sale_surrenderDetail": "The car is delivered to you fully insured",
 }
 
 const ru = {
@@ -78,6 +91,19 @@ const ru = {
   "consultationHeader":"Хотите иметь автомобиль из Америки по доступным ценам?",
   "buyNow": "Купить сейчас",
   "detailVideo": "Видео объяснение",
+  "saleProcess": "Как происходит процесс покупки автомобиля?",
+  "sale_chooseCar": "Выбор автомобиля",
+  "sale_chooseCarDetail": "Вы выбираете автомобиль, который хотите",
+  "sale_check": "Проверка",
+  "sale_checkDetail": "История автомобиля проверена.",
+  "sale_deposit": "Депозит",
+  "sale_depositDetail": "Вы вкладываете себя",
+  "sale_time": "Дата",
+  "sale_timeDetail": "Будет определено во время аукциона",
+  "sale_invoice": "Счет",
+  "sale_invoiceDetail": "Оплата автомобиля производится через банк",
+  "sale_surrender": "Сдаваться",
+  "sale_surrenderDetail": "Автомобиль доставляется вам полностью застрахованным.",
 }
 
 const az = {
@@ -119,6 +145,19 @@ const az = {
   "consultationHeader":"Amerikadan sərfəli qiymətlərlə avtomobilə sahib olmaq istəyirsiniz?",
   "buyNow": "İndi al",
   "detailVideo": "Video izah",
+  "saleProcess": "Avtomobil alış prosesi necə olur",
+  "sale_chooseCar": "Avtomobil seçilir",
+  "sale_chooseCarDetail": "İstədiyiniz Avtomobili seçirsiniz",
+  "sale_check": "Yoxlama",
+  "sale_checkDetail": "Avtomobilin tarixçəsi yoxlanılır",
+  "sale_deposite": "Depozit",
+  "sale_depositeDetail": "Adınıza depozit qoyursunuz",
+  "sale_time": "Tarix",
+  "sale_timeDetail": "Hərracın zamanı dəqiqləşdirilir",
+  "sale_invoice": "İnvoice",
+  "sale_invoiceDetail": "Avtomobilin ödənişi bank vasitəsi ilə ödənilir",
+  "sale_surrender": "Təhvil",
+  "sale_surrenderDetail": "Avtomobil sizə tam sığortalı çatdırılır",
 }
 
 
