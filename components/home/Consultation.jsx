@@ -11,7 +11,7 @@ const Consultation = () => {
   const { [locale]: t } = lang;
 
   return (
-    <div className='w-full flex justify-center' id='ourDifferences'>
+    <section className='w-full flex justify-center' id='ourDifferences'>
       <div className='max-w-[1300px] w-full px-4 2xl:px-0 pt-10 pb-[100px]'>
         <div className='flex flex-col lg:flex-row gap-12'> 
           <Image src={'/imgs/consultation.jpg'} alt='mrauto' width={600} height={450} className=' w-full lg:max-w-[600px]  object-cover rounded-md' />
@@ -44,7 +44,7 @@ const Consultation = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 

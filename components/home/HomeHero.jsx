@@ -17,7 +17,7 @@ const HomeHero = () => {
   const { [locale]: t } = lang;
   
   return (
-    <div className='w-full flex justify-center'>
+    <header className='w-full flex justify-center'>
       <div className='homeHero max-w-[1300px] w-full'>
         <Swiper
           spaceBetween={0}
@@ -196,7 +196,7 @@ const HomeHero = () => {
           </SwiperSlide>
         </Swiper>
       </div>
-    </div>
+    </header>
   )
 }
 

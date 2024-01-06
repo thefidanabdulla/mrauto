@@ -9,9 +9,9 @@ const Carfax = () => {
   const { locale } = useRouter();
   const { [locale]: t } = lang;
   return (
-    <div className="flex justify-center">
+    <section className="flex justify-center">
       <div className="max-w-[1300px] w-full px-4 2xl:px-0  flex items-center justify-between" id="carfax">
-        <div className="flex flex-col lg:flex-row items-center justify-center gap-10 homeCarfaxGradient">
+        <div className="flex flex-col lg:flex-row items-center py-10 justify-center gap-10 homeCarfaxGradient">
           <Image src={"/imgs/dodge.svg"} width={600} height={400} />
           <div className="flex flex-col items-center gap-5">
             <h3 className="text-2xl font-semibold text-center w-[80%]">
@@ -26,7 +26,7 @@ const Carfax = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

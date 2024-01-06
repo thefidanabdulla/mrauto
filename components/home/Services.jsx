@@ -12,7 +12,7 @@ const Services = () => {
   const { [locale]: t } = lang;
 
   return (
-    <div className="w-full flex justify-center">
+    <section className="w-full flex justify-center">
       <div className=" max-w-[1300px] w-full px-4 2xl:px-0 py-[100px]">
         <h2 className="text-xl md:text-3xl font-semibold mb-12">{t.ourServices}</h2>
         <div className=" flex flex-row justify-center flex-wrap gap-8  lg:justify-between">
@@ -75,7 +75,7 @@ const Services = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

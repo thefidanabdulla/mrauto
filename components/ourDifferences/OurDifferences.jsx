@@ -15,11 +15,11 @@ const OurDifferences = () => {
   const { [locale]: t } = lang;
 
   return (
-    <div className='w-full flex justify-center' id='ourDifferences'>
+    <section className='w-full flex justify-center ourDifferencesGradient' id='ourDifferences'>
       <div className='max-w-[1300px] w-full px-4 2xl:px-0 pt-10 pb-[100px]'>
-        <h2 className="text-xl md:text-3xl font-semibold mb-12">{t.ourServices}</h2>
+        <h2 className="text-xl md:text-3xl font-semibold mb-12">{t.ourDifferences}</h2>
         <div className='flex justify-center items-stretch flex-wrap gap-10'>
-          <div className='shadow-md rounded-md p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
+          <div className='shadow-lg bg-[rgba(255,255,255,0.5)] rounded-lg p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
             <div className='w-[80px] h-[80px] bg-orange-300 rounded-full flex justify-center items-center'>
               <div className='w-[60px] h-[60px] bg-orange-500 rounded-full flex justify-center items-center text-white text-2xl'>
                 <FaBusinessTime />
@@ -28,7 +28,7 @@ const OurDifferences = () => {
             <h4 className='text-center text-xl font-semibold'>{t.experience}</h4>
             <p className='text-center text-[rgba(0,0,0,0.5)]'>{t.aboutOurExperience}</p>
           </div>
-          <div className='shadow-md rounded-md p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
+          <div className='shadow-lg bg-[rgba(255,255,255,0.5)] rounded-lg p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
             <div className='w-[80px] h-[80px] bg-orange-300 rounded-full flex justify-center items-center'>
               <div className='w-[60px] h-[60px] bg-orange-500 rounded-full flex justify-center items-center text-white text-2xl'>
               <IoPricetag />
@@ -37,7 +37,7 @@ const OurDifferences = () => {
             <h4 className='text-center text-xl font-semibold'>{t.price}</h4>
             <p className='text-center text-[rgba(0,0,0,0.5)]'>{t.aboutPrice}</p>
           </div>
-          <div className='shadow-md rounded-md p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
+          <div className='shadow-lg bg-[rgba(255,255,255,0.5)] rounded-lg p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
             <div className='w-[80px] h-[80px] bg-orange-300 rounded-full flex justify-center items-center'>
               <div className='w-[60px] h-[60px] bg-orange-500 rounded-full flex justify-center items-center text-white text-2xl'>
                 <AiOutlineFieldTime />
@@ -46,7 +46,7 @@ const OurDifferences = () => {
             <h4 className='text-center text-xl font-semibold'>{t.time}</h4>
             <p className='text-center text-[rgba(0,0,0,0.5)]'>{t.aboutTime}</p>
           </div>
-          <div className='shadow-md rounded-md p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
+          <div className='shadow-lg bg-[rgba(255,255,255,0.5)] rounded-lg p-2 pt-4 pb-8 flex flex-col justify-start items-center gap-3 w-[280px]'>
             <div className='w-[80px] h-[80px] bg-orange-300 rounded-full flex justify-center items-center'>
               <div className='w-[60px] h-[60px] bg-orange-500 rounded-full flex justify-center items-center text-white text-2xl'>
                 <TbShieldCheckFilled />
@@ -57,7 +57,7 @@ const OurDifferences = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 }
 

@@ -7,14 +7,14 @@ const Contact = () => {
   const { locale } = useRouter();
   const { [locale]: t } = lang;
   return (
-    <div className="flex justify-center homeContactGradient">
+    <section className="flex justify-center homeContactGradient">
       <div
         className="max-w-[1300px] w-full  px-4 2xl:px-0 py-[100px]  flex items-center justify-between "
         id="contact"
       >
-        <div className="flex gap-14 justify-between">
+        <div className="flex flex-col md:flex-row gap-14 justify-center items-center  md:justify-between">
           <div>
-            <h3 className="text-[48px] font-semibold text-white w-[80%]">{t.doYouWantToPartnerOrWorkWithUs}</h3>
+            <h3 className="text-[48px] text-center md:text-start font-semibold text-white md:w-[80%]">{t.doYouWantToPartnerOrWorkWithUs}</h3>
           </div>
           <form className="flex flex-col gap-3">
             <input className="w-[300px] p-3 rounded-md bg-[rgba(255,255,255,0.3)] text-white placeholder:text-white outline-none border-none font-semibold" placeholder={t.fullname} />
@@ -23,7 +23,7 @@ const Contact = () => {
           </form>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
