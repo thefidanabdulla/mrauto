@@ -2,7 +2,7 @@ import React from 'react'
 
 const WhereIsVIN = () => {
   return (
-    <div>WhereIsVIN</div>
+    <div id='whereIsVin'>WhereIsVIN</div>
   )
 }
 

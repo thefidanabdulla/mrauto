@@ -54,7 +54,9 @@ const en = {
   "select": "Select",
   "frequentlyAskedQuestions": "Frequently asked questions",
   "whatIsCarfax": "What is carfax?",
-
+  "enterTheVinNumber": "Enter the VIN number",
+  "whereIsVin": "Where is VIN?",
+  "paymentProcess": "Payment process",
 }
 
 const ru = {
@@ -113,6 +115,10 @@ const ru = {
   "select": "Выбирать",
   "frequentlyAskedQuestions": "Часто задаваемые вопросы",
   "whatIsCarfax": "Что такое карфакс?",
+  "enterTheVinNumber": "Введите VIN-номер",
+  "whereIsVin": "Где ВИН?",
+  "paymentProcess": "Процесс оплаты",
+
 }
 
 const az = {
@@ -171,6 +177,9 @@ const az = {
   "select": "Seçin",
   "frequentlyAskedQuestions": "Ən çox verilən suallar",
   "whatIsCarfax": "Carfax nədir?",
+  "enterTheVinNumber": " VİN-nömrəni daxil edin",
+  "whereIsVin": "Harda olur VİN?",
+  "paymentProcess": "Ödəmə prosesi",
 }
 
 

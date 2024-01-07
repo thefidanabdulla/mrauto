@@ -46,6 +46,18 @@ html {
     rgba(255, 70, 5, 0) 100%
   );
 }
+.paymentProcessCardGradient{
+  background: white;
+  transition: all 300ms ease;
+}
+.paymentProcessCard:hover .paymentProcessCardGradient {
+  background: rgb(247, 107, 28);
+  background: linear-gradient(
+    90deg,
+    rgba(247, 107, 28, 1) 0%,
+    rgba(250, 217, 97, 1) 100%
+  );
+}
 .homeHero .swiper-pagination {
   left: 40px !important;
   width: auto !important;
